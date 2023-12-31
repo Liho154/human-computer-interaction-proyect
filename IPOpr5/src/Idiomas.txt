@@ -1,0 +1,83 @@
+3
+ES
+28
+Pagina principal
+Los espacios de la universidad, así como la reserva de los mismos, pueden ser usados tanto por gente dentro de la misma universidad como externa a la misma
+Universidad de Jaen
+www.ujaen.es
+Avisos Legales
+Sala1 - Edificio 1 UJA
+Sala con espacio para 50 personas
+Sala2 - Edificio 2 UJA
+Sala con espacio para 30 personas
+Sala3 - Edificio 2 UJA
+Sala con espacio para 100 personas
+Reservar
+Cancelar
+Selecciona Aula
+Aula1
+Aula2
+Aula3
+Selecciona fecha
+Limpiar
+Reservar
+Tus reservas
+Seleccionar todo
+Limpiar
+Aceptar
+Reservas
+Aplicacion
+Idiomas
+Salir
+10
+src/Iconos/logo.png
+src/Iconos/sala.jpg
+src/Iconos/arrow.png
+src/Iconos/arrow2.png
+src/Iconos/cancel3.png
+src/Iconos/online-booking2.png
+src/Iconos/inicio-removebg-preview.png
+src/Iconos/reserva-removebg-preview.png
+src/Iconos/training.png
+src/Iconos/usuario-removebg-preview.png
+Ee
+28
+Home page
+The university spaces, as well as their reservation, can be used both by people within the same university and external to it
+Jaen University
+www.ujaen.es
+Legal notices
+Sala1 - Building 1 UJA
+Room with space for 50 people
+Sala2 - Building 2 UJA
+Room with space for 30 people
+Sala3 - Building 2 UJA
+Room with space for 100 people
+Book
+Cancelekjsdjfsd
+Select Classroom
+Classroom1
+Classroom2
+Classroom3
+Select date
+Clear
+Reserve
+Your bookings
+Select all
+Clear
+Accept
+Bookings
+Aplication
+Languaje
+exitsiajkjasskjfsdaf
+10
+src/Iconos/ujaLogo.png
+src/Iconos/classroom.jpg
+src/Iconos/arrow.png
+src/Iconos/arrow2.png
+src/Iconos/cancel3.png
+src/Iconos/online-booking2.png
+src/Iconos/inicio-removebg-preview.png
+src/Iconos/reserva-removebg-preview.png
+src/Iconos/training.png
+src/Iconos/usuario-removebg-preview.png
